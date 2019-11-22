@@ -10,7 +10,7 @@
       <id>HTTP</id>
       <active>true</active>
       <protocol>http</protocol>
-      <host>91.195.104.74"</host>
+      <host>91.195.104.74</host>
       <port>3128</port>
       <username></username>
       <password></password>
@@ -20,7 +20,7 @@
       <id>HTTPS</id>
       <active>true</active>
       <protocol>https</protocol>
-      <host>91.195.104.74"</host>
+      <host>91.195.104.74</host>
       <port>3128</port>
       <username></username>
       <password></password>
